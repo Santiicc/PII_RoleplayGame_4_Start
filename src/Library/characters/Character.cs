@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using RoleplayGame.Items;
+using RoleplayGame.Powers;
 
 namespace RoleplayGame.Characters
 {
@@ -20,6 +21,7 @@ namespace RoleplayGame.Characters
         /// Nivel del vida del personaje.
         /// </summary>
         protected int health;
+
         public int Health 
         { 
             get
