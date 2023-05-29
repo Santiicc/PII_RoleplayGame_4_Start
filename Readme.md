@@ -107,6 +107,5 @@ Con este ejercicio se les ha entregado un diagrama de clases como el que se mues
 Incorporen al diagrama (dibujen en la hoja) los elementos que han agregado en los desafíos anteriores.
     
 # Anexo: Diagrama de clases
-
-![](Class-Diagram.png?raw=true "Class Diagram")
+![Untitled-2023-05-29-1130](https://github.com/Santiicc/PII_RoleplayGame_4_Start/assets/127800403/1a59c668-1ea4-4dae-9667-8437dbbee11b)
 * _Las clases en verde se encuentran definidas en el proyecto ConsoleGame._
