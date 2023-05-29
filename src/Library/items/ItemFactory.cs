@@ -7,6 +7,8 @@ namespace RoleplayGame.Items
     {
         Magic = 1,
         Robes = 2,
+        DwarvenMusket = 3,
+        MusketeerKit = 4,
     }
 
     /// <summary>
@@ -25,6 +27,10 @@ namespace RoleplayGame.Items
             {
                 case ItemType.Magic: return new Magic();
                 case ItemType.Robes: return new Robes();
+                case ItemType.DwarvenMusket: return new DwarvenMusket();
+                case ItemType.MusketeerKit: return new MusketeerKit();
+                
+                
 
                 default: return null;
             }
